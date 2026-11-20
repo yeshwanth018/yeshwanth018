@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Motivated B.Tech Computer Science & Engineering (AI & ML) student with a solid foundation in Java, Python, SQL, and Full Stack Web<br>Development. Passionate about solving real-world problems through technology and continuously improving technical skills. Seeking an<br>opportunity to contribute, learn, and grow as a Software Developer.
+B.Tech CSE (AI & ML) student skilled in Java, Python, SQL, and Full Stack Web Development. Passionate about building innovative projects, solving real-world problems, and exploring emerging technologies while growing as a Software Developer.
 
 
 ## 🌐 Socials:
